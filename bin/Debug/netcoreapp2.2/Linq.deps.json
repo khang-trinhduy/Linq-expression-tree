@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "516671c80b4d366c47ccf3a03e2e5d262518dc15"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Linq/1.0.0": {
+        "dependencies": {
+          "NSpecifications": "1.1.0",
+          "System.Linq.Dynamic": "1.0.7",
+          "System.Linq.Dynamic.Core": "1.0.14"
+        },
+        "runtime": {
+          "Linq.dll": {}
+        }
+      },
+      "NSpecifications/1.1.0": {
+        "runtime": {
+          "lib/netstandard1.0/NSpecifications.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Linq.Dynamic/1.0.7": {
+        "runtime": {
+          "lib/net40/System.Linq.Dynamic.dll": {
+            "assemblyVersion": "1.0.6132.35681",
+            "fileVersion": "1.0.6132.35681"
+          }
+        }
+      },
+      "System.Linq.Dynamic.Core/1.0.14": {
+        "runtime": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.0.14.0",
+            "fileVersion": "1.0.14.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NSpecifications/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/+15B7yOp+vOC30acaeuuzWGovLtJm/zCrLiOeYq4Ht7aURa4gsMKxUMNAGmaY5ylNC9yHIasIqprfXAuKMbWQ==",
+      "path": "nspecifications/1.1.0",
+      "hashPath": "nspecifications.1.1.0.nupkg.sha512"
+    },
+    "System.Linq.Dynamic/1.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BxEYab1SCgaqElLv57DrfPyi3ksK1Pbk5eXfwkXRZOdlC4aFT03QRkPEbYFBnFPnxhoLlc/Rg2b8vL0ffYSYWA==",
+      "path": "system.linq.dynamic/1.0.7",
+      "hashPath": "system.linq.dynamic.1.0.7.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8FfiNpUjkdrB+4Z5PG3jrQLiuhI54Gpa7ZycLYOLcR2SGjmsGUCZmNhMHjl0amqPG+/k28iPQgU2q14RA1Q9pQ==",
+      "path": "system.linq.dynamic.core/1.0.14",
+      "hashPath": "system.linq.dynamic.core.1.0.14.nupkg.sha512"
+    }
+  }
+}

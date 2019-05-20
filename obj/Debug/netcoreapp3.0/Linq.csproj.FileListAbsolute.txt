@@ -10,3 +10,5 @@ C:\Users\trinh\source\repos\Linq\obj\Debug\netcoreapp3.0\Linq.AssemblyInfoInputs
 C:\Users\trinh\source\repos\Linq\obj\Debug\netcoreapp3.0\Linq.AssemblyInfo.cs
 C:\Users\trinh\source\repos\Linq\obj\Debug\netcoreapp3.0\Linq.dll
 C:\Users\trinh\source\repos\Linq\obj\Debug\netcoreapp3.0\Linq.pdb
+C:\Users\trinh\source\repos\Linq\bin\Debug\netcoreapp3.0\Flee.NetStandard20.dll
+C:\Users\trinh\source\repos\Linq\obj\Debug\netcoreapp3.0\Linq.csproj.CopyComplete
